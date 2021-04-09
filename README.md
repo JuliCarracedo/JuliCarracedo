@@ -1,3 +1,4 @@
+![Logo](https://github.com/JuliCarracedo/JuliCarracedo/blob/main/CustomBanner.png)
 # Julian Carracedo's personal README
 
 ## Who am I?
