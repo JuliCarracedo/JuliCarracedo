@@ -1,16 +1,25 @@
-### Hi there 👋
+# Julian Carracedo's personal README
 
-<!--
-**JuliCarracedo/JuliCarracedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+I'm a beginner programmer eager to learn more everyday and become a Full Stack developer
+* Currently a Microverse Student
+* Two years of Computer Sciences in College
+* Videogames enthusiast
+* Digital/ Traditional Artist
+* Geek
+* Comic Writer and Artist
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links:
+* My Linkedin: [Julian Carracedo](https://www.linkedin.com/in/julian-carracedo-0b8518207/)
+* My Twitter: [@CarracedoJulian](https://twitter.com/CarracedoJulian)
+* My Instagram: [@grand_alchemist](https://www.instagram.com/grand_alchemist/)
+* E-mail me at julicarra@hotmail.com or julianotaku2.5@gmail.com
+## My stack:
+* C(academical approach)
+* Java
+* Javascript
+* HTML
+* CSS
+  * vanilla
+  * with Bootstrap
+  * with LESS
