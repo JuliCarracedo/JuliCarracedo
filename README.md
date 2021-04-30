@@ -24,3 +24,4 @@ I'm a beginner programmer eager to learn more everyday and become a Full Stack d
   * vanilla
   * with Bootstrap
   * with LESS
+* Ruby
