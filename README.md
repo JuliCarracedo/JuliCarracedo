@@ -2,7 +2,7 @@
 # Julian Carracedo's personal README
 
 ## Who am I?
-I'm a beginner programmer eager to learn more everyday and become a Full Stack developer
+I'm a Full-Stack Developer in training.
 * Currently a Microverse Student
 * Two years of Computer Sciences in College
 * Videogames enthusiast
