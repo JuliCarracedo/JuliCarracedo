@@ -18,7 +18,7 @@ I'm a Full-Stack Developer in training.
 ## My stack:
 * C(academical approach)
 * Java
-* Javascript
+* JavaScript
 * HTML
 * CSS
   * vanilla
