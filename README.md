@@ -19,9 +19,11 @@ I'm a Full-stack Developer in training.
 * C(academical approach)
 * Java
 * JavaScript
+  * React & Redux
 * HTML
 * CSS
   * vanilla
   * with Bootstrap
   * with LESS
 * Ruby
+  * Ruby on Rails
