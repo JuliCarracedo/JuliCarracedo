@@ -5,10 +5,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CarracedoTrigo)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@JulianCarracedo)
 ## Who am I?
-I'm a Full-stack Software Developer
+
 * Microverse graduate
-* UX afficionado
+* Full-Stack Software Engineer (RoR with Hotwire mostly)
 * Comic Writer and Artist
+* Computer Science student
 
 [![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliCarracedo)](https://github.com/anuraghazra/github-readme-stats)
 
