@@ -10,8 +10,6 @@
 * Full-Stack Software Engineer (RoR with Hotwire mostly)
 * Computer Science student
 
-[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliCarracedo)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My stack:
 * ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   * ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
