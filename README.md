@@ -8,7 +8,6 @@
 
 * Microverse graduate
 * Full-Stack Software Engineer (RoR with Hotwire mostly)
-* Comic Writer and Artist
 * Computer Science student
 
 [![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliCarracedo)](https://github.com/anuraghazra/github-readme-stats)
